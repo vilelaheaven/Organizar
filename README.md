@@ -5,8 +5,8 @@
 
 2. [Putty](https://www.putty.org/):  Acesso a SSH (Terminal p/ Servidores, GitHub, etc)
 
-3. Sublime Text 3
+3. [Sublime Text 3](https://www.sublimetext.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjQzNzAzLDExMjQ2MjkxNDAsLTE2Nz
-g3NzkzMjZdfQ==
+eyJoaXN0b3J5IjpbMTMxODAwOTIsMTEyNDYyOTE0MCwtMTY3OD
+c3OTMyNl19
 -->

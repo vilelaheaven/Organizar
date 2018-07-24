@@ -4,7 +4,9 @@
 
 > Login: *vilela@vhinfo.net*
 
-2. [Putty](https://www.putty.org/):  Acesso a SSH (Servidores, etc
+2. [Putty](https://www.putty.org/):  Acesso a SSH (Terminal p/ Servidores, GitHub, etc)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTMyNTY1NSwtMTY3ODc3OTMyNl19
+eyJoaXN0b3J5IjpbLTIxMjIzODkyMjAsLTE2Nzg3NzkzMjZdfQ
+==
 -->

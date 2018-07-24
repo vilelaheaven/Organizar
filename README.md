@@ -9,9 +9,13 @@
 3. [Sublime Text 3](https://www.sublimetext.com/)
 4. [Brackets](http://brackets.io/)
 5. [Notepad++](https://notepad-plus-plus.org/)
-6. 
+
+**Comunicadores**:
+
+6. [Slack](https://slack.com/downloads/windows)
+7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODA0MjYxNCwxMTk1MjExNjU2LDYwOT
-E4NTkxNywtMzQ1MTkwMDM0LDExMjQ2MjkxNDAsLTE2Nzg3Nzkz
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTI5MTA2NTUzMiwxMTc4MDQyNjE0LDExOT
+UyMTE2NTYsNjA5MTg1OTE3LC0zNDUxOTAwMzQsMTEyNDYyOTE0
+MCwtMTY3ODc3OTMyNl19
 -->

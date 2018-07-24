@@ -5,10 +5,11 @@
 
 2. [Putty](https://www.putty.org/):  Acesso a SSH (Terminal p/ Servidores, GitHub, etc)
 
-### 
+### Editores:
 3. [Sublime Text 3](https://www.sublimetext.com/)
 4. [Brackets](http://brackets.io/)
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MTg1OTE3LC0zNDUxOTAwMzQsMTEyND
-YyOTE0MCwtMTY3ODc3OTMyNl19
+eyJoaXN0b3J5IjpbLTIxMTI1MzQ1MDEsNjA5MTg1OTE3LC0zND
+UxOTAwMzQsMTEyNDYyOTE0MCwtMTY3ODc3OTMyNl19
 -->

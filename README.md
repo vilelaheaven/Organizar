@@ -6,16 +6,17 @@
 2. [Putty](https://www.putty.org/):  Acesso a SSH (Terminal p/ Servidores, GitHub, etc)
 
 **Editores**
+
 3. [Sublime Text 3](https://www.sublimetext.com/)
 4. [Brackets](http://brackets.io/)
 5. [Notepad++](https://notepad-plus-plus.org/)
 
-**Comunicadores**
+**Colaborativos**
+
 6. [Slack](https://slack.com/downloads/windows): Utilizamos para comunicar na VhINFO e na Vtex Partner.
-
-
+7. [Trello](https://trello.com/platforms)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Nzc5MDEyMiwxMTc4MDQyNjE0LDExOT
+eyJoaXN0b3J5IjpbMTIxMTMyNjE4NywxMTc4MDQyNjE0LDExOT
 UyMTE2NTYsNjA5MTg1OTE3LC0zNDUxOTAwMzQsMTEyNDYyOTE0
 MCwtMTY3ODc3OTMyNl19
 -->

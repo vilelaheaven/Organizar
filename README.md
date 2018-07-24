@@ -14,11 +14,11 @@
 **Colaborativos**:
 
 6. [Slack](https://slack.com/downloads/windows): Configurar  **VhINFO** e na **Vtex Partner**.
-7. [Trello](https://trello.com/platforms):
+7. [Trello](https://trello.com/platforms): Se estiver em Windows 10, existe versão da Store.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODEwMzcwMiwtNDQ4NjkxOTcyLDExNz
+eyJoaXN0b3J5IjpbMTE3OTIzMTUwNiwtNDQ4NjkxOTcyLDExNz
 gwNDI2MTQsMTE5NTIxMTY1Niw2MDkxODU5MTcsLTM0NTE5MDAz
 NCwxMTI0NjI5MTQwLC0xNjc4Nzc5MzI2XX0=
 -->

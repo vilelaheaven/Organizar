@@ -3,7 +3,7 @@
 ## O básico para o trabalho diário:
 
 ### Manter Instalado, de preferência com acesso na barra de ferramentas.
-> Sistemas Web que não tenham arquivos executáveis, de preferência criar atalho via Chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar.) Arrastar atalho para barra de ferramentas)
+> Sistemas Web que não tenham arquivos executáveis, de preferência criar atalho via Chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar.) Arrastar atalho para manter na barra de ferramentas)
 
  1.   [Google Drive File System](https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe): Software exclusivo para clientes GSuite (**VhINFO**), cria um disco adicional no computador chamado "Google Drive File Stream" com todos os arquivos do Google Drive. OBS: É diferente do **Backup & Sync** do Google ou o antigo Drive (descontinuado), ele não ocupa o disco do computador e só sincroniza os arquivos temporariamente no momento que você os acessa. Mas simula como se estivessem no PC.
 
@@ -29,7 +29,9 @@
 
 10. [StackEdit](https://stackedit.io): Acesso apenas Web, configurar como atalho via chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar. Arrastar atalho para barra de ferramentas)
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzAxOTQ5Myw1Njc5MTAyNjIsOTg3Mj
-EyNzYzLDE3OTg3NDU2MzAsLTExODI4NjM4MDVdfQ==
+eyJoaXN0b3J5IjpbNjQ5MzkxMzA5LDU2NzkxMDI2Miw5ODcyMT
+I3NjMsMTc5ODc0NTYzMCwtMTE4Mjg2MzgwNV19
 -->

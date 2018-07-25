@@ -18,8 +18,8 @@
 
 **Comunicadores**:
 
-8. Skype
+8. [Skype](https://www.skype.com/pt-br/get-skype/)
 9. [WhatsApp](https://www.whatsapp.com/download/?l=pt_br)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI4NjM4MDVdfQ==
+eyJoaXN0b3J5IjpbMTc5ODc0NTYzMCwtMTE4Mjg2MzgwNV19
 -->

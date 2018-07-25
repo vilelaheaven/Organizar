@@ -29,11 +29,8 @@
 **Markdown**
 
 10. [StackEdit](https://stackedit.io): Acesso apenas Web, configurar como atalho via chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar. Arrastar atalho para barra de ferramentas)
-
-
-asd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDA5Nzg4NSwtMTUyMzI5MjYzNSw2ND
-kzOTEzMDksNTY3OTEwMjYyLDk4NzIxMjc2MywxNzk4NzQ1NjMw
-LC0xMTgyODYzODA1XX0=
+eyJoaXN0b3J5IjpbNzk3NzUzMjMsMTcwNDA5Nzg4NSwtMTUyMz
+I5MjYzNSw2NDkzOTEzMDksNTY3OTEwMjYyLDk4NzIxMjc2Mywx
+Nzk4NzQ1NjMwLC0xMTgyODYzODA1XX0=
 -->

@@ -2,7 +2,8 @@
 
 ## O básico para o trabalho diário:
 
-### Manter Instalado
+### Manter Instalado, de preferência com acesso na barra de ferramentas.
+
  1.   [Google Drive File System](https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe): Software exclusivo para clientes GSuite (**VhINFO**), cria um disco adicional no computador chamado "Google Drive File Stream" com todos os arquivos do Google Drive. OBS: É diferente do **Backup & Sync** do Google ou o antigo Drive (descontinuado), ele não ocupa o disco do computador e só sincroniza os arquivos temporariamente no momento que você os acessa. Mas simula como se estivessem no PC.
 
 2. [Putty](https://www.putty.org/):  Acesso a SSH (Terminal p/ Servidores, GitHub, etc)
@@ -25,9 +26,9 @@
 
 **Markdown**
 
-10. [StackEdit](https://stackedit.io): Acesso apenas Web, configurar como atalho via chrome. (
+10. [StackEdit](https://stackedit.io): Acesso apenas Web, configurar como atalho via chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar. Arrastar atalho para barra de ferramentas)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzkxNjM4OCw1Njc5MTAyNjIsOTg3Mj
+eyJoaXN0b3J5IjpbLTI3NjQ1NTU1Nyw1Njc5MTAyNjIsOTg3Mj
 EyNzYzLDE3OTg3NDU2MzAsLTExODI4NjM4MDVdfQ==
 -->

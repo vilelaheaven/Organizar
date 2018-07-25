@@ -7,12 +7,11 @@
 
 2. [Putty](https://www.putty.org/):  Acesso a SSH (Terminal p/ Servidores, GitHub, etc)
 
-**Editores DEV**:
+**Editores**:
 
 3. [Sublime Text 3](https://www.sublimetext.com/)
 4. [Brackets](http://brackets.io/)
 5. [Notepad++](https://notepad-plus-plus.org/)
-
 
 **Colaborativos**:
 
@@ -23,7 +22,11 @@
 
 8. [Skype](https://www.skype.com/pt-br/get-skype/)
 9. [WhatsApp](https://www.whatsapp.com/download/?l=pt_br) 
+
+**Markdown**
+
+10. StackEdit: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY2Njk5MDIsNTY3OTEwMjYyLDk4Nz
+eyJoaXN0b3J5IjpbLTIwMDMzOTgyMjksNTY3OTEwMjYyLDk4Nz
 IxMjc2MywxNzk4NzQ1NjMwLC0xMTgyODYzODA1XX0=
 -->

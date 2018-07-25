@@ -21,8 +21,8 @@
 **Comunicadores**:
 
 8. [Skype](https://www.skype.com/pt-br/get-skype/)
-9. [WhatsApp](https://www.whatsapp.com/download/?l=pt_br)  
+9. [WhatsApp](https://www.whatsapp.com/download/?l=pt_br) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MjEyNzYzLDE3OTg3NDU2MzAsLTExOD
-I4NjM4MDVdfQ==
+eyJoaXN0b3J5IjpbNzg0Nzc2NTY5LDk4NzIxMjc2MywxNzk4Nz
+Q1NjMwLC0xMTgyODYzODA1XX0=
 -->

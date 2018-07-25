@@ -19,7 +19,7 @@
 **Comunicadores**:
 
 8. Skype
-9. Whats'App  
+9. [WhatsApp](https://www.whatsapp.com/download/?l=pt_br)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDg0NTQxOV19
+eyJoaXN0b3J5IjpbLTExODI4NjM4MDVdfQ==
 -->

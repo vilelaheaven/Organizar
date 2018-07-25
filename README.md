@@ -1,6 +1,8 @@
 ### Esta pasta se destina a organizar os softwares e configurações utilizados no PC do Vilela no Windows.
 
 ## O básico para o trabalho diário:
+
+### Manter Instalado
  1.   [Google Drive File System](https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe): Software exclusivo para clientes GSuite (**VhINFO**), cria um disco adicional no computador chamado "Google Drive File Stream" com todos os arquivos do Google Drive. OBS: É diferente do **Backup & Sync** do Google ou o antigo Drive (descontinuado), ele não ocupa o disco do computador e só sincroniza os arquivos temporariamente no momento que você os acessa. Mas simula como se estivessem no PC.
 
 2. [Putty](https://www.putty.org/):  Acesso a SSH (Terminal p/ Servidores, GitHub, etc)
@@ -21,5 +23,6 @@
 8. [Skype](https://www.skype.com/pt-br/get-skype/)
 9. [WhatsApp](https://www.whatsapp.com/download/?l=pt_br)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODc0NTYzMCwtMTE4Mjg2MzgwNV19
+eyJoaXN0b3J5IjpbOTg3MjEyNzYzLDE3OTg3NDU2MzAsLTExOD
+I4NjM4MDVdfQ==
 -->

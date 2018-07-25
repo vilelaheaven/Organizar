@@ -25,8 +25,9 @@
 
 **Markdown**
 
-10. StackEdit: 
+10. [StackEdit](https://stackedit.io): Acesso apenas Web, configurar como atalho via chrome. (
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMzOTgyMjksNTY3OTEwMjYyLDk4Nz
-IxMjc2MywxNzk4NzQ1NjMwLC0xMTgyODYzODA1XX0=
+eyJoaXN0b3J5IjpbMTE5NzkxNjM4OCw1Njc5MTAyNjIsOTg3Mj
+EyNzYzLDE3OTg3NDU2MzAsLTExODI4NjM4MDVdfQ==
 -->

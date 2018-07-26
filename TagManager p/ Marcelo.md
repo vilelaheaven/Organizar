@@ -3,7 +3,7 @@
 
 ---
 
-<p>Sobre o conceito de eventos no Google Analytics:</p>
+<h1 id="eventos-no-google-analytics">Eventos no Google Analytics:</h1>
 <p><a href="#gambiarra-feelings">Se quiser pular direto para a gambiarra em CSS, clique aqui.</a></p>
 <p>Existe atualmente uma coisa chamada <strong>Enhanced Commerce</strong> no Analytics, supostamente ele deveria funcionar bem com o Magento, se bem configurado.<br>
 <a href="https://docs.magento.com/m1/ee/user_guide/marketing/google-universal-analytics-enhanced-ecommerce.html">Veja aqui<br>
@@ -271,6 +271,28 @@
 <h1 id="gambiarra-feelings">GAMBIARRA FEELINGS:</h1>
 <p><em>Mas como todo open-source cada loja é uma história e pode ser uma dor de cabeça ir, vamos pra gambiarra rs</em></p>
 <p>Uma forma básica, mas nada estruturada (porém funcional) de habilitar os eventos é ativar eles por <strong>CSS</strong>, foi o que fiz no da Maxibel na maioria dos casos, por não ter acesso a estrutura do Magento e ter que fazer tudo pelo FrontEnd.</p>
+<p><strong>Exemplo prático:</strong></p>
+<p>Saber quando alguém selecionou a opção (clicou) em boleto bancário:</p>
+<blockquote>
+<p>Digamos que você quer descobrir se as pessoas estão considerando pagar no boleto, porém desistem por algum motivo. Então você poderia mensurar se a pessoa está clicando em boleto embora ela tenha convertido em cartão, ou se simplesmente ignorou essa opção. Ou você quer saber se alterando a ordem do pagamento no check-out, será que muda os números? Enfim:</p>
+</blockquote>
+<p>Tela da TAG no GTM:</p>
+<p><img src="https://i.imgur.com/RtWxtc1.png" alt="enter image description here"></p>
+<p>Veja que o nome do evento que vai aparecer no Analytics será “Clicou em Boleto”.</p>
+<p>Abrindo esta tag estas são as configurações:</p>
+<p><img src="https://i.imgur.com/HBz00nb.png" alt="tag do clicar no boleto"></p>
+<blockquote>
+<p><strong>OBS:</strong> <em>O campo chamado “Configurações do Google Analytics” é por que você deve configurar a sincronia dele dentro do GTM.  Você irá fazer isso em <strong>Variáveis</strong>, fica do lado esquerdo da tela. Veja:</em></p>
+</blockquote>
+<p><img src="https://i.imgur.com/9eOlJob.png" alt="enter image description here"></p>
+<p><strong>Voltando a TAG:</strong><br>
+Veja que eu criei um “Acionador de Disparo” para ela (o momento em que o evento será enviado ao analytics) chamado “Selecionou Boleto”, vamos ver como ele é:</p>
+<p><img src="https://i.imgur.com/0gCU1Kg.png" alt="selecao do boleto"></p>
+<p>A gambiarra ai consiste em ver qual é o CSS do elemento que o usuário clica, no caso do Felipe é uma imagem de boleto bancário, com a css <em>"glyphicon glyphicon-barcode</em>", então o código desse acionador fica assim:</p>
+<p><img src="https://i.imgur.com/Q3swuvL.png" alt="configuracao do acionador"></p>
+<p>E Voilá! Seguindo essa lógica você faz o que quiser.<br>
+Esse é o resultado no Google Analytics ao clicarem no item:</p>
+<p><img src="https://i.imgur.com/bhfrk7a.png" alt="eventos"></p>
 <blockquote>
 <p>Written by Vilela in <a href="https://github.com/vilelaheaven/stackedit">StackEdit</a>.</p>
 </blockquote>

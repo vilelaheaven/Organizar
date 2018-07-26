@@ -37,8 +37,9 @@
 **E-commerce**:
 12. [My Vtex (FashionBiju)](https://fashionbiju.myvtex.com/admin): Atalho Chrome.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzMyODkyOSwxODM1MzczNDIwLC00OD
-g2MjU0NjMsLTEyMTgxMDEzNzYsNzk3NzUzMjMsMTcwNDA5Nzg4
-NSwtMTUyMzI5MjYzNSw2NDkzOTEzMDksNTY3OTEwMjYyLDk4Nz
-IxMjc2MywxNzk4NzQ1NjMwLC0xMTgyODYzODA1XX0=
+eyJoaXN0b3J5IjpbLTYxODQwMDM5MCwtOTI3MzI4OTI5LDE4Mz
+UzNzM0MjAsLTQ4ODYyNTQ2MywtMTIxODEwMTM3Niw3OTc3NTMy
+MywxNzA0MDk3ODg1LC0xNTIzMjkyNjM1LDY0OTM5MTMwOSw1Nj
+c5MTAyNjIsOTg3MjEyNzYzLDE3OTg3NDU2MzAsLTExODI4NjM4
+MDVdfQ==
 -->

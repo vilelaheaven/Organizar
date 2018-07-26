@@ -35,9 +35,9 @@
 11. [X-Mind](https://www.xmind.net/)
 
 **E-commerce**:
-12. [MyVtex (FashionBiju)](https://fashionbiju.myvtex.com): Atalho Chrome.
+12. [My Vtex (FashionBiju)](https://fashionbiju.myvtex.com/admin): Atalho Chrome.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTk5Nzc0NSwxODM1MzczNDIwLC00OD
+eyJoaXN0b3J5IjpbLTkyNzMyODkyOSwxODM1MzczNDIwLC00OD
 g2MjU0NjMsLTEyMTgxMDEzNzYsNzk3NzUzMjMsMTcwNDA5Nzg4
 NSwtMTUyMzI5MjYzNSw2NDkzOTEzMDksNTY3OTEwMjYyLDk4Nz
 IxMjc2MywxNzk4NzQ1NjMwLC0xMTgyODYzODA1XX0=

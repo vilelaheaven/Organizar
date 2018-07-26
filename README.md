@@ -29,8 +29,13 @@
 **Markdown**
 
 10. [StackEdit](https://stackedit.io): Acesso apenas Web, configurar como atalho via chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar. Arrastar atalho para barra de ferramentas)
+
+**Mapa Mental**:
+
+11. X-Mind
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxMDEzNzYsNzk3NzUzMjMsMTcwND
-A5Nzg4NSwtMTUyMzI5MjYzNSw2NDkzOTEzMDksNTY3OTEwMjYy
-LDk4NzIxMjc2MywxNzk4NzQ1NjMwLC0xMTgyODYzODA1XX0=
+eyJoaXN0b3J5IjpbLTQ4ODYyNTQ2MywtMTIxODEwMTM3Niw3OT
+c3NTMyMywxNzA0MDk3ODg1LC0xNTIzMjkyNjM1LDY0OTM5MTMw
+OSw1Njc5MTAyNjIsOTg3MjEyNzYzLDE3OTg3NDU2MzAsLTExOD
+I4NjM4MDVdfQ==
 -->

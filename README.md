@@ -2,7 +2,7 @@
 
 ## O básico para o trabalho diário:
 
-### Manter Instalado, de preferência com acesso na barra de ferramentas.
+### Manter Instalado, de preferência com acesso na barra de ferramentas o máximo possível.
 ![barra de ferramentas do vilela](https://i.imgur.com/VIWa0wH.png)
 > Sistemas Web que não tenham arquivos executáveis, de preferência criar atalho via Chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar.) Arrastar atalho para manter na barra de ferramentas)
 
@@ -36,10 +36,14 @@
 
 **E-commerce**:
 12. [My Vtex (FashionBiju)](https://fashionbiju.myvtex.com/admin): Atalho Chrome.
+
+**Servidores / Hospedagem:**
+
+13. [Digital Ocean](https://cloud.digitalocean.com/projects/0eaa5dec-12b0-49c6-9a34-684e296fb0a3/resources?i=f9e4a1): Atalho Chrome.
+14. [Godaddy](mya.godaddy.com): Atalho Chrome.
+15. [UolHost](https://painelhost.uol.com.br/myProducts.html): Atalho Chrome.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzMyODkyOSwtNjE4NDAwMzkwLC05Mj
-czMjg5MjksMTgzNTM3MzQyMCwtNDg4NjI1NDYzLC0xMjE4MTAx
-Mzc2LDc5Nzc1MzIzLDE3MDQwOTc4ODUsLTE1MjMyOTI2MzUsNj
-Q5MzkxMzA5LDU2NzkxMDI2Miw5ODcyMTI3NjMsMTc5ODc0NTYz
-MCwtMTE4Mjg2MzgwNV19
+eyJoaXN0b3J5IjpbMTU5NjM4MjU3Ml19
 -->

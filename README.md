@@ -3,7 +3,7 @@
 ## O básico para o trabalho diário:
 
 ### Manter Instalado, de preferência com acesso na barra de ferramentas o máximo possível.
-![barra de ferramentas do vilela](https://i.imgur.com/VIWa0wH.png)
+![barra de ferramentas do vilela](https://i.imgur.com/cZaGxj3.png)
 > Sistemas Web que não tenham arquivos executáveis, de preferência criar atalho via Chrome. (Opções -> "Mais Ferramentas" -> "Criar atalho..." -> Confirmar.) Arrastar atalho para manter na barra de ferramentas)
 
  1.   [Google Drive File System](https://dl.google.com/drive-file-stream/GoogleDriveFSSetup.exe): Software exclusivo para clientes GSuite (**VhINFO**), cria um disco adicional no computador chamado "Google Drive File Stream" com todos os arquivos do Google Drive. OBS: É diferente do **Backup & Sync** do Google ou o antigo Drive (descontinuado), ele não ocupa o disco do computador e só sincroniza os arquivos temporariamente no momento que você os acessa. Mas simula como se estivessem no PC.
@@ -45,5 +45,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjM4MjU3Ml19
+eyJoaXN0b3J5IjpbMTc4MDEzNTU2NF19
 -->
